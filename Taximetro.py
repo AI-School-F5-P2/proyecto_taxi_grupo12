@@ -1,4 +1,6 @@
-    from pynput import keyboard
+
+
+from pynput import keyboard
 
 def pulsa(tecla):
 # Verificar si la tecla presionada es una tecla específica
@@ -11,8 +13,7 @@ def pulsa(tecla):
 
 # Crear un Listener para escuchar las pulsaciones de teclas
 with keyboard.Listener(on_press=pulsa) as escuchador:
-    escuchador.join()
-
+    escuchador.join()hh
 
 
 
