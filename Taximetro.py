@@ -1,19 +1,22 @@
+# Importo librerias
 
-
+import time
 from pynput import keyboard
 
-def pulsa(tecla):
-# Verificar si la tecla presionada es una tecla específica
-    if tecla == keyboard.Key.space:
-        print("Espacio presionado")
-    elif tecla == keyboard.Key.enter:
-        print("Intro presionado")
-    else:
-        print("Esta tecla presionada no tiene fuction!!")
+# Doy la bienvenida, explico funcionamiento y me queda a la espera de instrucciones
 
-# Crear un Listener para escuchar las pulsaciones de teclas
-with keyboard.Listener(on_press=pulsa) as escuchador:
-    escuchador.join()hh
+print("Bienvenido(a) al programa de cálculo de tarifa")
+print("Presiona Enter para empezar y terminar la carrera")
+print("Presiona espacio para frenar o continuar en una carrera")
+input("Presiona Enter para empezar la carrera...")
+
+# Defino la función
+def calculo_tarifa(tiempo_parado, tiempo_andando)
+    Tarifa_parado = tiempo_parado * 0.02
+    Tarifa_andando = tiempo_andando * 0,05
+    Tarifa_total = Tarifa_parado + Tarifa_andando
+    return Tarifa_total
+
 
 
 
