@@ -6,6 +6,7 @@ def pulsa(tecla):
         print("Espacio presionado")
     elif tecla == keyboard.Key.enter:
         print("Intro presionado")
+    #Verifica sì la tecla no tiene fuction
     else:
         print("Esta tecla presionada no tiene fuction!!")
 
