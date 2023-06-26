@@ -1,0 +1,17 @@
+2023-06-26 Hora Inicial: 08:21:38 Tiempo da Carrera: 00:00:18 Valor da Carrera: 0.92 Euros
+2023-06-26 Hora Inicial: 08:25:19 Tiempo da Carrera: 00:00:01 Valor da Carrera: 0.05 Euros
+2023-06-26 Hora Inicial: 08:25:21 Tiempo da Carrera: 00:00:00 Valor da Carrera: 0.01 Euros
+2023-06-26 Hora Inicial: 08:25:27 Tiempo da Carrera: 00:00:01 Valor da Carrera: 0.07 Euros
+2023-06-26 Hora Inicial: 08:25:28 Tiempo da Carrera: 00:00:00 Valor da Carrera: 0.01 Euros
+2023-06-26 Hora Inicial: 08:28:13 Tiempo da Carrera: 00:00:00 Valor da Carrera: 0.01 Euros
+2023-06-26 Hora Inicial: 08:28:13 Tiempo da Carrera: 00:00:00 Valor da Carrera: 0.01 Euros
+2023-06-26 Hora Inicial: 09:04:44 Tiempo da Carrera: 00:00:00 Valor da Carrera: 0.02 Euros
+2023-06-26 Hora Inicial: 09:04:45 Tiempo da Carrera: 00:00:00 Valor da Carrera: 0.01 Euros
+2023-06-26 Hora Inicial: 09:04:47 Tiempo da Carrera: 00:00:00 Valor da Carrera: 0.01 Euros
+2023-06-26 Hora Inicial: 09:07:54 Tiempo da Carrera: 00:00:08 Valor da Carrera: 0.42 Euros
+2023-06-26 Hora Inicial: 09:13:33 Tiempo da Carrera: 00:00:03 Valor da Carrera: 0.16 Euros
+2023-06-26 Hora Inicial: 09:14:33 Tiempo da Carrera: 00:00:05 Valor da Carrera: 0.25 Euros
+2023-06-26 Hora Inicial: 09:18:51 Tiempo da Carrera: 00:07:03 Valor da Carrera: 21.16 Euros
+2023-06-26 Hora Inicial: 09:25:56 Tiempo da Carrera: 00:00:07 Valor da Carrera: 0.41 Euros
+2023-06-26 Hora Inicial: 09:29:57 Tiempo da Carrera: 00:00:17 Valor da Carrera: 0.98 Euros
+2023-06-26 Hora Inicial: 14:51:23 Tiempo da Carrera: 00:00:09 Valor da Carrera: 0.51 Euros
