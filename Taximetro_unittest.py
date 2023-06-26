@@ -6,7 +6,7 @@ from pynput import keyboard
 import unittest
 
 # Configurar el sistema de logs
-logging.basicConfig(level=logging.INFO, format='%(asctime)s %(message)s', filename='reglog.log')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(message)s')
 
 # tiempo inicial da carrera
 tiempo_inicio = None
